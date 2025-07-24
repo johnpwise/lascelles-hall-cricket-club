@@ -44,7 +44,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
                         &copy; {new Date().getFullYear()} Lascelles Hall Cricket Club
                     </footer>
                 </div>
-                {children}
                 <ScrollRestoration />
                 <Scripts />
             </body>
