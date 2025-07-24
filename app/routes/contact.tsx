@@ -53,7 +53,7 @@ export default function Contact() {
     }
 
     return (
-        <div className="flex-1 bg-gradient-to-br from-green-50 to-blue-50 dark:from-gray-900 dark:to-slate-900 justify-center py-16">
+        <div className="flex-1 justify-center relative bg-gradient-to-br from-green-50 to-blue-50 dark:from-gray-900 dark:to-slate-900 py-16">
             {/* Watermark Crest */}
             <img
                 src="/assets/images/club-crest.png"
